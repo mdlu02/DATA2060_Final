@@ -4,8 +4,8 @@ This project implements the multiclass classifiers One vs All and All Pairs algo
 
 To check our model, we developed unit tests for each function/class, and we tested our multiclass algorithms with our own binary logistic regression with stochastic gradient descent on the Iris dataset from sklearn and our Penguins dataset (penguins.csv in our data folder) against sklearn's multiclass classifiers with underlying binary logistic regression SGDClassifier. 
 
-Python version: 3.12.5
-numpy version: 2.0.1
+Python version: 3.12.5,
+numpy version: 2.0.1,
 sklearn version: 1.5.1
 
 Author contacts:
